@@ -13,16 +13,16 @@ Step 7) Similarly go to link http://localhost:3000/approve-trade/1 to add interm
 ```
 
 # Screenshots
-<img src="https://github.com/KedarKK1/Ethereum-React-Smart_contract/tree/main/src/static/Screenshots/ss1.png" alt="login_pg" />
-<img src="https://github.com/KedarKK1/Ethereum-React-Smart_contract/tree/main/src/static/Screenshots/ss2.png" alt="sign_up_pg" />
-<img src="https://github.com/KedarKK1/Ethereum-React-Smart_contract/tree/main/src/static/Screenshots/ss3.png" alt="register_pg" />
-<img src="https://github.com/KedarKK1/Ethereum-React-Smart_contract/tree/main/src/static/Screenshots/ss4.png" alt="confirmation_modal" />
-<img src="https://github.com/KedarKK1/Ethereum-React-Smart_contract/tree/main/src/static/Screenshots/ss5.png" alt="metamask_confirm_pg" />
-<img src="https://github.com/KedarKK1/Ethereum-React-Smart_contract/tree/main/src/static/Screenshots/ss6.png" alt="data_added_successfully" />
-<img src="https://github.com/KedarKK1/Ethereum-React-Smart_contract/tree/main/src/static/Screenshots/ss7.png" alt="idwise_product_pg" />
-<img src="https://github.com/KedarKK1/Ethereum-React-Smart_contract/tree/main/src/static/Screenshots/ss8.png" alt="approve_additional_transaction_pg" />
-<img src="https://github.com/KedarKK1/Ethereum-React-Smart_contract/tree/main/src/static/Screenshots/ss9.png" alt="select_options_from_dropdown" />
-<img src="https://github.com/KedarKK1/Ethereum-React-Smart_contract/tree/main/src/static/Screenshots/ss10.png" alt="see_profile_of_trader/farmer/retailers" />
+<img src="./src/static/Screenshots/ss1.png" alt="login_pg" />
+<img src="./src/static/Screenshots/ss2.png" alt="sign_up_pg" />
+<img src="./src/static/Screenshots/ss3.png" alt="register_pg" />
+<img src="./src/static/Screenshots/ss4.png" alt="confirmation_modal" />
+<img src="./src/static/Screenshots/ss5.png" alt="metamask_confirm_pg" />
+<img src="./src/static/Screenshots/ss6.png" alt="data_added_successfully" />
+<img src="./src/static/Screenshots/ss7.png" alt="idwise_product_pg" />
+<img src="./src/static/Screenshots/ss8.png" alt="approve_additional_transaction_pg" />
+<img src="./src/static/Screenshots/ss9.png" alt="select_options_from_dropdown" />
+<img src="./src/static/Screenshots/ss10.png" alt="see_profile_of_trader/farmer/retailers" />
 
 # Sample Hardhat Project
 
