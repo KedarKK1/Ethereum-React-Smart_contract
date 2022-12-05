@@ -39,3 +39,8 @@ npx hardhat run scripts/deploy.js
 npx hardhat node
 npx hardhat run scripts/deploy.js --network localhost
 ```
+
+## Show your support
+
+Give a ⭐️ if this project helped you! <br/>
+Make sure to credit me in the Footer, if you do end up using it!
