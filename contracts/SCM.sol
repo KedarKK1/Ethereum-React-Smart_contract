@@ -12,9 +12,9 @@ contract SCM {
         string weight;
     }
 
-    constructor() { // <——— Has 0 arguments
-        // console.log("Hey!");
-    }
+    // constructor() { // <——— Has 0 arguments
+    //   // console.log("Hey!");
+    // }
 
     // mapping(uint => Product) public products;
 
